@@ -8,3 +8,7 @@ Objectif :
 - faire des commits
 - créer des branches
 - utiliser les pull requests
+
+## Ce que j'apprends
+
+GitHub permet de suivre les modifications d'un projet.
